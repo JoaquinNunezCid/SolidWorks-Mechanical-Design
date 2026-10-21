@@ -26,12 +26,20 @@ The project focused on 3D mechanical modeling and technical documentation for a 
 ## Assembly and Disassembly Animations
 
 ### Assembly
-![Animated preview of the assembly process](media/assembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoaquinNunezCid/SolidWorks-Mechanical-Design/main/media/assembly.gif" alt="Assembly animation" width="640" />
+</p>
+
+[Open the assembly GIF directly](https://github.com/JoaquinNunezCid/SolidWorks-Mechanical-Design/blob/main/media/assembly.gif)
 
 ### Disassembly
-![Animated preview of the disassembly process](media/disassembly.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoaquinNunezCid/SolidWorks-Mechanical-Design/main/media/disassembly.gif" alt="Disassembly animation" width="640" />
+</p>
 
-These lightweight GIFs are compressed previews of the original AVI videos.
+[Open the disassembly GIF directly](https://github.com/JoaquinNunezCid/SolidWorks-Mechanical-Design/blob/main/media/disassembly.gif)
+
+These lightweight GIFs are compressed previews of the original AVI videos. If the animated preview does not render in a client, open the GIF directly using the links above.
 
 ## Technical Drawings
 
