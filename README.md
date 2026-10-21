@@ -23,6 +23,16 @@ The project focused on 3D mechanical modeling and technical documentation for a 
 ### Rear Support
 ![Rear support](images/rear-support.jpeg)
 
+## Assembly and Disassembly Animations
+
+### Assembly
+![Animated preview of the assembly process](media/assembly.gif)
+
+### Disassembly
+![Animated preview of the disassembly process](media/disassembly.gif)
+
+These lightweight GIFs are compressed previews of the original AVI videos.
+
 ## Technical Drawings
 
 PDF drawings are provided so the documentation can be viewed without SolidWorks:
@@ -55,4 +65,4 @@ Keep the model files together with their referenced components when opening the 
 - **Course:** Medios de Representación Gráfica II
 - **Year:** 2025
 
-This repository presents university coursework and should not be interpreted as a commercial or industrial implementation. The repository currently includes images, CAD files, and PDF drawings; assembly/disassembly videos are not included yet.
+This repository presents university coursework and should not be interpreted as a commercial or industrial implementation. The original AVI videos are not included; only compressed GIF previews are provided.
